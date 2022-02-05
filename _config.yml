@@ -57,7 +57,7 @@ plugins:
 author:
   name   : "Jacob P. Strock"
   avatar : "/assets/images/Profile_Photo_cropped.JPG"
-  bio    : "Turning high big data into scientific and business insights"
+  bio    : "Turning big data into scientific and business insights"
   links:
     #- label: "Website"
     #  icon: "fas fa-fw fa-link"
