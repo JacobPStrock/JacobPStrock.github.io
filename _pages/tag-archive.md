@@ -4,5 +4,5 @@ permalink: /tags/
 layout: tags
 author_profile: true
 header:
-    image: /assets/images/header_image_cropped.jpg
+    overlay_image: /assets/images/header_image_cropped.jpg
 ---

@@ -1,8 +1,9 @@
 ---
 title: "Posts by Category"
 layout: categories
+share : true
 permalink: /categories/
 author_profile: true
 header:
-    image: /assets/images/header_image_cropped.jpg
+    overlay_image: /assets/images/header_image_cropped.jpg
 ---
