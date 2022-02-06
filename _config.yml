@@ -13,9 +13,9 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: The LSTM Blogger
+title: The Nouveaux Neurons Blog
 email:
-description: >- Taking in new information to build the future 
+description: Taking in new ML methods to build the future 
 twitter_username: username
 github_username: username
 minimal_mistakes_skin: default
@@ -62,9 +62,9 @@ author:
     #- label: "Website"
     #  icon: "fas fa-fw fa-link"
     #  url: "https://"
-    #- label: "Twitter"
-    #  icon: "fab fa-fw fa-twitter-square"
-    #  url: "https://twitter.com/"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/StrockJacob"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/JacobPStrock/"
