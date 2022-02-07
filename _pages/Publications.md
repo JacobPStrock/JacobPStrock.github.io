@@ -6,8 +6,8 @@ permalink: /publications/
 type: "pages"
 path: ""
 header:
-    #image: /assets/images/paint_image_cropped.JPG
-    overlay_image: /assets/images/paint_image_cropped.JPG
+    #image: /assets/images/paint_image_cropped.jpg
+    overlay_image: /assets/images/paint_image_cropped.jpg
 ---
 
 __Publications__:
