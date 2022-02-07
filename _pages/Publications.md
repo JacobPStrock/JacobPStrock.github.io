@@ -6,7 +6,6 @@ permalink: /publications/
 type: "pages"
 path: ""
 header:
-    #image: /assets/images/paint_image_cropped.JPG
     overlay_image: /assets/images/paint_image_cropped.JPG
 ---
 
