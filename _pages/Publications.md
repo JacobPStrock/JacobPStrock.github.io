@@ -12,6 +12,7 @@ header:
 
 __Publications__:
 
+Strock, Jacob P., Puggioni G., and Menden-Deuer, S. "Two-stage multivariate dynamic linear models to extract environmental and climate signals in coastal ecosystem data". Journal of Statistics and Its Interface (2022), in review.
 
 [Strock, Jacob P., "Investigating long-term physical, chemical and biological changes in Narragansett Bay using Bayesian multivariate dynamic linear models" (2021). Master of Science Thesis. University of Rhode Island, Department of Computer Science and Statistics.Paper 1926.](https://digitalcommons.uri.edu/theses/1926/)
 
@@ -27,7 +28,7 @@ Strock, Jacob P., S. Cox, S. Glancy, J. Sheppard, J. Llopiz. "Individual-Level V
 
 [Strock, Jacob P., M. Nguyen, and Joseph Sherma. "Use of a model process for transfer of minilab TLC screening methods for quinine sulfate, mefloquine, and dihydroartemisinin—piperaquine phosphate tablets to quantitative HPTLC—densitometry methods." Acta Chromatographica 28, no. 3 (2016): 363-372.](https://akjournals.com/view/journals/1326/28/3/article-p363.xml)
 
-[Zhang, Danhui, Jacob Strock, and Joseph Sherma. "Transfer of TLC screening methods for azithromycin, imipramine HCl, and sulfadoxine+ pyrimethamine tablets to quantitative HPTLC-densitometry methods." Journal of Liquid Chromatography & Related Technologies 39, no. 5-6 (2016): 277-280.](https://www.tandfonline.com/doi/abs/10.1080/10826076.2016.1163465)
+[Zhang, Danhui, Jacob P. Strock, and Joseph Sherma. "Transfer of TLC screening methods for azithromycin, imipramine HCl, and sulfadoxine+ pyrimethamine tablets to quantitative HPTLC-densitometry methods." Journal of Liquid Chromatography & Related Technologies 39, no. 5-6 (2016): 277-280.](https://www.tandfonline.com/doi/abs/10.1080/10826076.2016.1163465)
 
 [Sherma, Joseph, D. Zhang, and J. Strock. "Development of HPTLC-densitometry methods for quantifying naproxen sodium, loperamide hydrochloride and loratadine in pharmaceutical tablets using a model procedure reported earlier to transfer TLC screening methods for fake and substandard drugs." Trends in Chromatography 10 (2016): 1-5](https://web.archive.org/web/20180507041253id_/https://dspace.lafayette.edu/bitstream/handle/10385/2211/Sherma-TrendsinChromatography-vol10-2016.pdf?sequence=1)
 
@@ -39,7 +40,14 @@ Strock, Jacob P., S. Cox, S. Glancy, J. Sheppard, J. Llopiz. "Individual-Level V
 
 __Presentations__:
 
-Microplastics Census in Sea Ice along the Canadian Arctic Archipelago
-A D'Angelo, L Glastra, J Strock, I Andreu, N Trenholm, B Loose
-AGU Fall Meeting 2021
+Brothers Todd, M. Al Mamun, and J.P. Strock. "Evaluating the Clinical Characteristics of ACUTE Kidney Injury in the ICU Setting". ISPOR Conference (2022).
 
+Brothers Todd, M. Al Mamun, and J.P. Strock. "Clinical Characteristics and Outcomes of Acute Kidney Injury in Critically Ill Adults". 52st Critical Care Congress (2022).
+
+Strock, Jacob P., and G. Puggioni. "Covariance specification and missing data imputation during periods of prolonged missingness with Bayesian dynamic linear models: simulations and an applied example". Presentation at 35th New England Statistics Symposium.
+
+Strock, Jacob P. "Extracting Environmental and Climate Signals in Coastal Ecosystem Data with Two-Stage Multivariate Dynamic Linear Models". Joint Statistical Meetings (2021). 
+
+D'Angelo A., L. Glastra, J. Strock, I. Andreu, N. Trenholm, B. Loose."Microplastics Census in Sea Ice along the Canadian Arctic Archipelago". American Geophysical Union Fall Meeting (2021).
+
+Shuang W., M. Welandawe, J. Strock, K. Jahan, G. Puggioni, and Xuerong Wen. "Bayesian latent class model for predicting gestational age at birth using an administrative database". Poster at the 34th New England Statistics Symposium (2020).
