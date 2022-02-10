@@ -40,8 +40,31 @@ If you don't want the easiest route that gives pretty good results, you can do e
 5. Add content to the README.md as desired
 6. You can change the title and description with "title:_yourtitle_" and "description:_yourdescription_" by adding these to the _config.yml file 
 
-Voila, you have made a site under the url _https://username.github.io_ . If you want to make additions, such as to add more pages, you can do so with Jekyll. If you are taking this option 1 route, you can see the github documentation [here](https://docs.github.com/en/pages/quickstart) for additional details.
+_Voila_, you have made a site under the url _https://username.github.io_ . If you want to make additions, such as to add more pages, you can do so with Jekyll. If you are taking this option 1 route, you can see the github documentation [here](https://docs.github.com/en/pages/quickstart) for additional details. Do note however, that it may take a few minutes for changes to update.
 
 __Option 2__:
 
+This second option is the focus of the article and for those who want more control. I will cover how to use custom themes, adapt them to your needs, add pages, add posts, and even getting a custom domain name for your website.
 
+### Using a custom theme and template
+The amount of open source themes for Jekyll is astounding. With little effort, you can make use themes built with the design skill of professional web designers. While there are a wealth of themes of high quality, it can be a little intimidating at first to know how to update and implement them for your own needs, especially if like me you were not familiar with Jekyll and web-design before hand. Fear-not, I will take you through how to build a beautiful site with the example of the _minimal mistakes_ theme.
+
+There are actually several ways to implement the minimal mistakes theme, but I recommend forking the repository and using this as a template. Obviously, with your own forked version of the template, it let's us make more changes down the line since we have access to all the code. 
+
+To build your Github page from the repository via forking, simply navigate to the minimal mistakes [repository]{https://github.com/mmistakes/minimal-mistakes}. Click the fork icon on the top right menu like such:
+
+[fork icon]{assets\images\Post_Images\Fork_screenshot.PNG}
+
+As in option 1, we need to rename this repository on our own profile with name _username.github.io_. Under the forked repository, you can do this simply by clicking on settings on the menu bar, and typing the new name of your repository in the top box:
+
+[repository rename]{assets\images\Post_Images\Fork_screenshot.PNG}
+
+Under "Code & operations" go to pages. Your github site should now be up and running on _https://username.github.io_.
+
+Of course, what you see are all the default pages and content for this theme. How do we include our information and customize?
+
+### Building and Serving Locally
+
+Because we are really starting with a blank template of a site, and you are going to want to visualize your changes as you go, it is best to add your content locally. In essence, adding everything is possible directly from your profile it Github but it will be particularly painful because commits will take several minutes to take effect.
+
+For your local environment, you will need git installed and ssh-key properly setup. If you do not already have this configured on your computer I recommend this tutorial. You will also need Jekyll and Ruby, again for installation and setup, I will point you to an excellent tutorial for both [Windows]{} and [Mac]{}. Last, you will need a text editor, I recommend Visual Studio Code, because it facilitates fast staging, commits, and push to your Github. This means you'll be able to develop quickly and easily. 
