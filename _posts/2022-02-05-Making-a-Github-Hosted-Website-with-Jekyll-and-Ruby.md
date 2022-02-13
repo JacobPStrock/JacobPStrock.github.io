@@ -25,14 +25,10 @@ Ruby is the programming language Jekyll is written in. If you're doing anything 
 
 ## Building Your Site
 
-There are really several routes for making a sit on Github pages. 
-
-__1.__ Without Jekyll
-
-__2.__ With Jekyll
+It is possible to build your site either with Jekyll or without. We will overview both options here:
 
 __Option 1__:
-If you don't want the easiest route that gives pretty good results, you can do everything from Github without really having to think about Jekyll. To do this, the following will get you setup:
+If you want the easiest route that gives pretty good results, you can do everything from Github without really having to think about Jekyll. To do this, the following will get you setup:
 1. Add a repository with the name _username.github.io_
 2. Under the repository, go to "Settings"
 3. Under "Code & operations" go to pages
@@ -47,17 +43,17 @@ __Option 2__:
 This second option is the focus of the article and for those who want more control. I will cover how to use custom themes, adapt them to your needs, add pages, add posts, and even getting a custom domain name for your website.
 
 ### Using a custom theme and template
-The amount of open source themes for Jekyll is astounding. With little effort, you can make use themes built with the design skill of professional web designers. While there are a wealth of themes of high quality, it can be a little intimidating at first to know how to update and implement them for your own needs, especially if like me you were not familiar with Jekyll and web-design before hand. Fear-not, I will take you through how to build a beautiful site with the example of the _minimal mistakes_ theme.
+The amount of open source themes for Jekyll is astounding. With little effort, you can make use themes built with the design skill of professional web designers. While there are a wealth of themes of high quality, it can be a little intimidating at first to know how to update and implement them for your own needs, especially if like me you were not familiar with Jekyll and web-design before hand. Fear-not, I will take you through how to build a beautiful site with the example of the _minimal mistakes_ theme. If you are interested in another theme, you can find a gallery of downloadable, github page compatible themes [here](https://jekyllthemes.io/github-pages-themes).
 
 There are actually several ways to implement the minimal mistakes theme, but I recommend forking the repository and using this as a template. Obviously, with your own forked version of the template, it let's us make more changes down the line since we have access to all the code. 
 
-To build your Github page from the repository via forking, simply navigate to the minimal mistakes [repository]{https://github.com/mmistakes/minimal-mistakes}. Click the fork icon on the top right menu like such:
+To build your Github page from the repository via forking, simply navigate to the minimal mistakes [repository](https://github.com/mmistakes/minimal-mistakes). Click the fork icon on the top right menu like such:
 
-[fork icon]{assets\images\Post_Images\Fork_screenshot.PNG}
+![fork icon](\assets\images\Post_Images\Fork_screenshot.PNG)
 
 As in option 1, we need to rename this repository on our own profile with name _username.github.io_. Under the forked repository, you can do this simply by clicking on settings on the menu bar, and typing the new name of your repository in the top box:
 
-[repository rename]{assets\images\Post_Images\Fork_screenshot.PNG}
+![repository rename](\assets\images\Post_Images\Rename_screenshot.PNG)
 
 Under "Code & operations" go to pages. Your github site should now be up and running on _https://username.github.io_.
 
@@ -67,4 +63,16 @@ Of course, what you see are all the default pages and content for this theme. Ho
 
 Because we are really starting with a blank template of a site, and you are going to want to visualize your changes as you go, it is best to add your content locally. In essence, adding everything is possible directly from your profile it Github but it will be particularly painful because commits will take several minutes to take effect.
 
-For your local environment, you will need git installed and ssh-key properly setup. If you do not already have this configured on your computer I recommend this tutorial. You will also need Jekyll and Ruby, again for installation and setup, I will point you to an excellent tutorial for both Windows and Mac. Last, you will need a text editor, I recommend Visual Studio Code, because it facilitates fast staging, commits, and push to your Github. This means you'll be able to develop quickly and easily. 
+For your local environment, you will need git installed and ssh-key properly setup. You will also need Jekyll and Ruby. For installation and setup, I will point you to an excellent tutorial for both [Windows](https://www.youtube.com/watch?v=LfP7Y9Ja6Qc&list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB&index=3) and [Mac](https://www.youtube.com/watch?v=WhrU9m82Wm8&list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB&index=2). Last, you will need a text editor, I recommend Visual Studio Code, because it facilitates fast staging, commits, and push to your Github. This means you'll be able to develop quickly and easily. Lets get started.
+
+First, clone your Github repo locally. You can do this from Git Bash via _git clone <your repo url>_. You now have all the template files locally on your computer where you can edit them. 
+
+Next, go ahead and navigate to your repository folder in VS code. There are several major folders and files you will need to be aware of to make most of your additions and changes to your site:
+
+1. _ _config.yml_ : Includes most of the site-wide configuration, and home page attributes
+2. _ _posts_: Includes markdown files each with an individual post
+3. _ _pages_: Includes markdown files for separate pages on the site
+4. _ _data_: Includes important reference data across the site such as dictionary of page names and associated URL
+5. _ _assets_: A place you can put documents and images to link and embed in your text
+
+N
