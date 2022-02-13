@@ -67,6 +67,8 @@ For your local environment, you will need git installed and ssh-key properly set
 
 First, clone your Github repo locally. You can do this from Git Bash via _git clone <your repo url>_. You now have all the template files locally on your computer where you can edit them. 
 
+From your command line, navigate to your cloned repo and enter _bundle exec jekyll serve_. This will serve the site locally on your PC. Changes to posts and pages will take place immediately, but config changes will require quitting and restarting the serve command. Nevertheless, this will let you start making additions and changes to your site while seeing how they impact the webpage.
+
 Next, go ahead and navigate to your repository folder in VS code. There are several major folders and files you will need to be aware of to make most of your additions and changes to your site:
 
 1. _ _config.yml_ : Includes most of the site-wide configuration, and home page attributes
@@ -75,4 +77,18 @@ Next, go ahead and navigate to your repository folder in VS code. There are seve
 4. _ _data_: Includes important reference data across the site such as dictionary of page names and associated URL
 5. _ _assets_: A place you can put documents and images to link and embed in your text
 
-N
+### Custom domain name
+
+So far so good. But if you're like me you might be bothered by having to stick with the standard domain name for your site. If you want to get creative or maybe just don't want to have _.github.io_ in the address, not to fear, Github has made this easy. 
+
+If you don't already own a domain name, this is pretty simple. There are a number of domain name services. I chose GoDaddy.com, but it doesn't matter which you use. 
+
+Once you buy a domain name, you'll have to make a few changes with your domain managment and Github to get it working, but it's a sinch. 
+
+On the DNS management page, you need to make the following changes:
+1. For variable "A", update the IP address to: 185.199.108.153 to point your domain to Github's server over HTTPS
+2. Add three for variable "A" with the following IP addresses: 185.199.109.153, 185.199.110.153, 185.199.111.153
+2. In CNAME input your current Github pages site _username.github.io_
+
+In the Github repository for your site, add a file "CNAME" in the root directory. In CNAME, add your purchased domain name. 
+
