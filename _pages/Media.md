@@ -17,14 +17,14 @@ While much of my work and research is confidential by nature, some projects whic
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OUbTyYI1UEs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-https://www.reuters.com/article/us-environment-arctic-plastic-idUSKCN1V41V2
+[https://www.reuters.com/article/us-environment-arctic-plastic-idUSKCN1V41V2](https://www.reuters.com/article/us-environment-arctic-plastic-idUSKCN1V41V2)
 
-https://zerowastecountdown.podbean.com/e/65-plastic-in-the-arctic/
+[https://zerowastecountdown.podbean.com/e/65-plastic-in-the-arctic/](https://zerowastecountdown.podbean.com/e/65-plastic-in-the-arctic/)
 
-https://www.indiatimes.com/technology/science-and-future/plastic-falls-as-snow-in-the-arctic-pollutes-deep-under-ice-even-with-no-humans-around-373662.html
+[https://www.indiatimes.com/technology/science-and-future/plastic-falls-as-snow-in-the-arctic-pollutes-deep-under-ice-even-with-no-humans-around-373662.html](https://www.indiatimes.com/technology/science-and-future/plastic-falls-as-snow-in-the-arctic-pollutes-deep-under-ice-even-with-no-humans-around-373662.html)
 
-https://e360.yale.edu/features/a-northwest-passage-journey-finds-little-ice-and-big-changes
+[https://e360.yale.edu/features/a-northwest-passage-journey-finds-little-ice-and-big-changes](https://e360.yale.edu/features/a-northwest-passage-journey-finds-little-ice-and-big-changes)
 
-https://www.delmarvanow.com/story/life/outdoors/2015/07/10/sandbar-shark-fishing/29976803/ 
+[https://www.delmarvanow.com/story/life/outdoors/2015/07/10/sandbar-shark-fishing/29976803/](https://www.delmarvanow.com/story/life/outdoors/2015/07/10/sandbar-shark-fishing/29976803/) 
 
 
