@@ -40,10 +40,10 @@ _Voila_, you have made a site under the url _https://username.github.io_ . If yo
 
 __Option 2__:
 
-This second option is the focus of the article and for those who want more control. I will cover how to use custom themes, adapt them to your needs, add pages, add posts, and even getting a custom domain name for your website.
+This second option is for those who want more control. With this, I will cover how to use custom themes, adapt them to your needs, add pages, add posts, and even getting a custom domain name for your website.
 
 ### Using a custom theme and template
-The amount of open source themes for Jekyll is astounding. With little effort, you can make use themes built with the design skill of professional web designers. While there are a wealth of themes of high quality, it can be a little intimidating at first to know how to update and implement them for your own needs, especially if like me you were not familiar with Jekyll and web-design before hand. Fear-not, I will take you through how to build a beautiful site with the example of the _minimal mistakes_ theme. If you are interested in another theme, you can find a gallery of downloadable, github page compatible themes [here](https://jekyllthemes.io/github-pages-themes).
+The amount of open source themes for Jekyll is astounding. With little effort, you can make use themes built with the design skill of professional web designers. While there are a wealth of themes of high quality, it can be a little intimidating at first to know how to update and implement them for your own needs, especially if like me you were not familiar with Jekyll and web-design before hand. Do not worry, I will take you through how to build a beautiful site with the example of the _minimal mistakes_ theme. If you are interested in another theme, you can find a gallery of downloadable, github page compatible themes [here](https://jekyllthemes.io/github-pages-themes).
 
 There are actually several ways to implement the minimal mistakes theme, but I recommend forking the repository and using this as a template. Obviously, with your own forked version of the template, it let's us make more changes down the line since we have access to all the code. 
 
@@ -67,11 +67,11 @@ For your local environment, you will need git installed and ssh-key properly set
 
 First, clone your Github repo locally. You can do this from Git Bash via _git clone <your repo url>_. You now have all the template files locally on your computer where you can edit them. 
 
-From your command line, navigate to your cloned repo and enter _bundle exec jekyll serve_. This will serve the site locally on your PC. Changes to posts and pages will take place immediately, but config changes will require quitting and restarting the serve command. Nevertheless, this will let you start making additions and changes to your site while seeing how they impact the webpage.
+From your command line, navigate to your cloned repo and enter _bundle exec jekyll serve_. This will serve the site locally on your PC. It should default to localhost:4000, which you can type in any browser. Changes to posts and pages will take place immediately, but config changes will require quitting and restarting the serve command. Nevertheless, this will let you start making additions and changes to your site while seeing how they impact the webpage.
 
-Next, go ahead and navigate to your repository folder in VS code. There are several major folders and files you will need to be aware of to make most of your additions and changes to your site:
+With your PC serving your site locally, go ahead and navigate to your repository folder in VS code. There are several major folders and files to adapt the site to your needs:
 
-1. _ _config.yml_ : Includes most of the site-wide configuration, and home page attributes
+1. _ _config.yml_ : Includes most of the site-wide configuration, and home page attributes. If you are working from a template, this should be pretty straight forward to adapt to your use. Just replace
 2. _ _posts_: Includes markdown files each with an individual post
 3. _ _pages_: Includes markdown files for separate pages on the site
 4. _ _data_: Includes important reference data across the site such as dictionary of page names and associated URL
