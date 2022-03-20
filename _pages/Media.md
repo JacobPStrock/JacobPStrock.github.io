@@ -12,7 +12,10 @@ header:
 
 __Media__:
 
+While much of my work and research is confidential by nature, some projects which were funded through public grants were not. Some of these resulted in media pieces for public consumption which you can find below.
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OUbTyYI1UEs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 https://www.reuters.com/article/us-environment-arctic-plastic-idUSKCN1V41V2
 
