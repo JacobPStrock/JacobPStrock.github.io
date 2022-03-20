@@ -44,10 +44,10 @@ Brothers Todd, Mohammad Al Mamun, and __Jacob P. Strock__. "Evaluating the Clini
 
 Brothers Todd, Mohammad Al Mamun, and __Jacob P. Strock__. "Clinical Characteristics and Outcomes of Acute Kidney Injury in Critically Ill Adults". 52st Critical Care Congress (2022).
 
-__Strock, Jacob P.__, and G. Puggioni. "Covariance specification and missing data imputation during periods of prolonged missingness with Bayesian dynamic linear models: simulations and an applied example". Presentation at 35th New England Statistics Symposium.
+[__Strock, Jacob P.__, and G. Puggioni. "Covariance specification and missing data imputation during periods of prolonged missingness with Bayesian dynamic linear models: simulations and an applied example". Presentation at 35th New England Statistics Symposium.](/assets/supplementaryfiles/NESS_presentation_Final.pdf)
 
-__Strock, Jacob P__. "Extracting Environmental and Climate Signals in Coastal Ecosystem Data with Two-Stage Multivariate Dynamic Linear Models". Joint Statistical Meetings (2021). 
+[__Strock, Jacob P__. "Extracting Environmental and Climate Signals in Coastal Ecosystem Data with Two-Stage Multivariate Dynamic Linear Models". Joint Statistical Meetings (2021).](/assets/supplementaryfiles/JSM_Presentation_Strock.pdf)
 
-D'Angelo A., L. Glastra, __Jacob P. Strock__, I. Andreu, N. Trenholm, B. Loose."Microplastics Census in Sea Ice along the Canadian Arctic Archipelago". American Geophysical Union Fall Meeting (2021).
+[D'Angelo A., L. Glastra, __Jacob P. Strock__, I. Andreu, N. Trenholm, B. Loose."Microplastics Census in Sea Ice along the Canadian Arctic Archipelago". American Geophysical Union Fall Meeting (2021).](/assets/supplementaryfiles/AGU_2021_MP_AD.pdf)
 
-Shuang W., Manushi Welandawe, __Jacob P. Strock__, Kurshid Jahan, Gavino Puggioni, and Xuerong Wen. "Bayesian latent class model for predicting gestational age at birth using an administrative database". Poster at the 34th New England Statistics Symposium (2020).
+[Shuang W., Manushi Welandawe, __Jacob P. Strock__, Kurshid Jahan, Gavino Puggioni, and Xuerong Wen. "Bayesian latent class model for predicting gestational age at birth using an administrative database". Poster at the 34th New England Statistics Symposium (2020).](/assets/supplementaryfiles/NESS%20poster_v4.pdf)
