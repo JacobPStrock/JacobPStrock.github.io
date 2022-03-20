@@ -9,3 +9,5 @@ main:
     url: /tags/
   - title: "Publications"
     url: /publications/
+  - title: "Media"
+    url: /media/
