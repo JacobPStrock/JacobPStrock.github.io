@@ -12,7 +12,9 @@ header:
 
 __Publications__:
 
-__Strock, Jacob P.__, Puggioni G., and Menden-Deuer, S. "Two-stage multivariate dynamic linear models to extract environmental and climate signals in coastal ecosystem data". Journal of Statistics and Its Interface (2022), in review.
+__Strock, Jacob P.__, Puggioni G., and Menden-Deuer, S. "Two-stage multivariate dynamic linear models to extract environmental and climate signals in coastal ecosystem data". Journal of Statistics and Its Interface (2022), Accepted.
+
+[__Mohommad, Al-Mamun, Strock, Jacob P., Sharker, Yushuf, Schmidt, Rebecca, Shawwa, Khaled, Slain, Douglas, Sakhuja, Ankit, and Todd Brothers. "Evaluating the Association and Predictability of Complex Medication Regimen Scores with Clinical Outcomes Among the Critically Ill". Critical Care Medicine (2022), In review.](https://www.medrxiv.org/content/10.1101/2022.02.03.22270376v1)
 
 [__Strock, Jacob P.__, "Investigating long-term physical, chemical and biological changes in Narragansett Bay using Bayesian multivariate dynamic linear models" (2021). Master of Science Thesis. University of Rhode Island, Department of Computer Science and Statistics.Paper 1926.](https://digitalcommons.uri.edu/theses/1926/)
 
