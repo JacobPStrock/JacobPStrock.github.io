@@ -12,7 +12,7 @@ header:
 
 __Publications__:
 
-__Strock, Jacob P.__, Puggioni G., and Menden-Deuer, S. "Two-stage multivariate dynamic linear models to extract environmental and climate signals in coastal ecosystem data". Journal of Statistics and Its Interface (2022), Accepted.
+[__Strock, Jacob P.__, Puggioni G., and Menden-Deuer, S. "Two-stage multivariate dynamic linear models to extract environmental and climate signals in coastal ecosystem data". Journal of Statistics and Its Interface (2022), Accepted.](https://www.intlpress.com/site/pub/pages/journals/items/sii/_home/acceptedpapers/index.php)
 
 [__Mohommad, Al-Mamun, __Strock, Jacob P.__, Sharker, Yushuf, Schmidt, Rebecca, Shawwa, Khaled, Slain, Douglas, Sakhuja, Ankit, and Todd Brothers. "Evaluating the Association and Predictability of Complex Medication Regimen Scores with Clinical Outcomes Among the Critically Ill". Critical Care Medicine (2022), In review.](https://www.medrxiv.org/content/10.1101/2022.02.03.22270376v1)
 
