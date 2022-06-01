@@ -12,7 +12,7 @@ _"The best thing about being a statistician is that you get to play in everyoneâ
 
 In my time as a statistician to data scientist I have had the privelage to work on a great number of topics including excimer laser lithography, medical studies of COVID patients and pharmaceutical regimes, risk analysis of premature birth, long-term environmental monitoring, oceanographic exploration, behavioral studies of fish, and the development of field techniques for the detection of fraudulent pharmaceutical drugs. Plainly, to find meaning in data is what drives me. Each data set and project comes with its own unique challenges. Every day I have the joy of solving puzzles with machine learning and statistics. 
 
-While I began my education as a scientist, inevitably, the data components of research are what continued to draw me. Inevitably, I transformed from research scientist to data scients, earning my masters degree in statistics along the way as well as some [other professional certifications](https://coursera.org/share/1e1324a784a999c740d91e983d8d6e36) to expand my knowledge.
+While I began my education as a scientist, inevitably, the data components of research are what continued to draw me. Inevitably, I transformed from research scientist to data scientist, earning my [masters degree in statistics](https://digitalcommons.uri.edu/theses/1926/) developing new forecasting methods, as well as gaining some [other professional certifications](https://coursera.org/share/1e1324a784a999c740d91e983d8d6e36) to expand my knowledge.
 
 ![Life as a scientist](/assets/images/Helicopter_photo.jpg)
 *My career in statistics and science has taken me around the globe to solve unique problems. Here I am on a research expedition through the Northwest Passage*
