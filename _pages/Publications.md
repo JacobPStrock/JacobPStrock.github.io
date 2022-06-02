@@ -12,9 +12,13 @@ header:
 
 __Publications__:
 
+[__Mohommad, Al-Mamun, __Strock, Jacob P.__, Sharker, Yushuf, Schmidt, Rebecca, Shawwa, Khaled, Slain, Douglas, Sakhuja, Ankit, and Todd Brothers. "Evaluating the Association and Predictability of Complex Medication Regimen Scores with Clinical Outcomes Among the Critically Ill". Critical Care Medicine (2022), In review.](https://www.medrxiv.org/content/10.1101/2022.02.03.22270376v1)
+
+[Brothers, Todd, __Strock, Jacob P.__, LeMasters, Traci, Pawasauskas, Jayne, Reed, Ronald and Al-Mamun, Mohammad. (2022). Survival and recovery modeling of acute kidney injury in critically ill adults. SAGE Open Medicine. 10. 205031212210993. 10.1177/20503121221099359.](https://journals.sagepub.com/doi/10.1177/20503121221099359)
+
 [__Strock, Jacob P.__, Puggioni G., and Menden-Deuer, S. "Two-stage multivariate dynamic linear models to extract environmental and climate signals in coastal ecosystem data". Journal of Statistics and Its Interface (2022), Accepted.](https://www.intlpress.com/site/pub/pages/journals/items/sii/_home/acceptedpapers/index.php)
 
-[__Mohommad, Al-Mamun, __Strock, Jacob P.__, Sharker, Yushuf, Schmidt, Rebecca, Shawwa, Khaled, Slain, Douglas, Sakhuja, Ankit, and Todd Brothers. "Evaluating the Association and Predictability of Complex Medication Regimen Scores with Clinical Outcomes Among the Critically Ill". Critical Care Medicine (2022), In review.](https://www.medrxiv.org/content/10.1101/2022.02.03.22270376v1)
+[Brothers, Todd, __Strock, Jacob P.__ and Al-Mamun, Mohammad. "Clinical Characteristics and Outcomes of Acute Kidney Injury in Criticaly Ill Adults". Critical Care Medicine 55.1 (2022): 662.](https://journals.lww.com/ccmjournal/Citation/2022/01001/1322__CLINICAL_CHARACTERISTICS_AND_OUTCOMES_OF.1288.aspx)
 
 [__Strock, Jacob P.__, "Investigating long-term physical, chemical and biological changes in Narragansett Bay using Bayesian multivariate dynamic linear models" (2021). Master of Science Thesis. University of Rhode Island, Department of Computer Science and Statistics.Paper 1926.](https://digitalcommons.uri.edu/theses/1926/)
 
