@@ -1,6 +1,7 @@
 ---
 permalink: /about/
 title: "About"
+layout: "splash"
 header:
     overlay_image: /assets/images/Ocean_Image_cropped.jpg
 ---
@@ -15,10 +16,10 @@ In my time as a statistician to data scientist I have had the privelage to work 
 While I began my education as a scientist, inevitably, the data components of research are what continued to draw me. Inevitably, I transformed from research scientist to data scientist, earning my [masters degree in statistics](https://digitalcommons.uri.edu/theses/1926/) developing new forecasting methods, as well as gaining some [other professional certifications](https://coursera.org/share/1e1324a784a999c740d91e983d8d6e36) to expand my knowledge.
 
 ![Life as a scientist](/assets/images/Helicopter_photo.jpg)
-*My career in statistics and science has taken me around the globe to solve unique problems. Here I am on a research expedition through the Northwest Passage*
+*My research career has taken me around the globe to solve unique problems. Here I am on a research expedition through the Northwest Passage*
 
 While much of my work is confidential by nature, you can read about some of the publicly funded research projects [here](/publications/).
 
-__Nouveaux Neurons__: 
+__This Blog__: 
 
 My work has gained me expertise in machine learning, big data tools (Spark, Hadoop, cloud computing), surivival modeling, spatio-temporal modeling. While I consider myself knowledgeable, with years of work behind these topics and many more, it was not without an uncountable number of hours of hands-on experience, tutorials, and literature review. I hope that I can share this knowledge with up and coming data scientists to help them in their journey. I say this aknowledging that learning is never done in a field like data science, where the development of techniques and tools is extraordinarily active. So, as I continue to learn, I will also continue to share.

@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: The Nouveaux Neurons Blog
+title: Jacob P. Strock 
 email:
 description: Taking in new ML methods to build the future 
 twitter_username: username
@@ -23,9 +23,10 @@ search: true
 
 # Build settings
 markdown: kramdown
-remote_theme: mmistakes/minimal-mistakes
+theme: minimal-mistakes-jekyll
+#remote_theme: mmistakes/minimal-mistakes
 # Outputting
-permalink: /:categories/:title/
+#permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
