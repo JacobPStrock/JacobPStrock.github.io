@@ -17,3 +17,5 @@ Surivival models are used for what we call time to event data. That is we use th
 
 
 ## Non
+
+$$\beta + \delta $$
