@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Jacob P. Strock 
 email:
-description: Taking in new ML methods to build the future 
+description: Turning big data into scientific and business insights
 twitter_username: username
 github_username: username
 minimal_mistakes_skin: default
