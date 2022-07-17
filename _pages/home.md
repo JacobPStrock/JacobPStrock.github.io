@@ -14,7 +14,7 @@ excerpt: >
 feature_row:
   - image_path: /assets/images/Post_Images/Figure3.jpg
     alt: "Public Projects"
-    title: "Pulic Projects"
+    title: "Public Projects"
     excerpt: "An overview of published and public projects."
     url: "/posts/"
     btn_class: "btn--primary"
@@ -32,7 +32,7 @@ feature_row:
     excerpt: "Certifications, credentials, and experience"
     url: "/media/"
     btn_class: "btn--primary"
-    btn_label: "Learn more"      
+    btn_label: "Learn more"   
 ---
 
 {% include feature_row %}
