@@ -7,12 +7,12 @@ header:
   overlay_image: 
     /assets/images/paint_image_cropped.jpg
   actions:
-    - label: "<i class='fas fa-download'></i> Contact"
-      url: "/publications/"
+    - label: "<i class='fas fa-download'></i> About"
+      url: "/about/"
 excerpt: >
   
 feature_row:
-  - image_path: /assets/images/Post_Images/Figure3.jpg
+  - image_path: /assets/images/survival_model_resized.jpg
     alt: "Public Projects"
     title: "Public Projects"
     excerpt: "An overview of published and public projects."
