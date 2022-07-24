@@ -12,7 +12,7 @@ header:
   actions:
     - label: "<i class='fas fa-download'></i> About"
       url: "/about/"
-excerpt: "Data Scientist with a passion for developing new methods and asking the meaningful questions"
+excerpt: "Turning big data into scientific and business insights"
   
 feature_row:
   - image_path: /assets/images/survival_model_resized.jpg
