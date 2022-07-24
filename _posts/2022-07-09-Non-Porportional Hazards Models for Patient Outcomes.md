@@ -2,14 +2,16 @@
 usemathjax:
     true
 header: 
-    teaser: /assets/images/jekyll_icon.png
+    teaser: /assets/images/Post_Images/nonproportional_hazards.jpeg
 ---
 
 ![nonproportional hazards](/assets/images/Post_Images/nonproportional_hazards.jpeg)
 
-When I see my statistical or machine learning models in action it greatly pleases me. Recently, I had some of my survival (aka time to event) modeling work published in the medical journal [SAGE open Medicine](https://journals.sagepub.com/doi/10.1177/20503121221099359). This was for the Northeast Big Data Innovation Hub on the project [_CritCOVIDView: A Critical Care Visualization Tool for COVID-19_](https://nebigdatahub.org/critcovidview/). The core goal of this project was to develop predictive models and statistical insights to help clinicians make data driven medical decisions during the COVID crisis with the insights and analysis from high dimensional patient data. In this post, I will summarize my work on one of the projects where I served as the data scientist. This project  targets analysis of the interaction between the prevalent and dangerous condition of Acute Kidney Injury (AKI), and the interaction with medications, patient demographics, and COVID infection. 
+Recently, I had some of my survival (aka time to event) modeling work published in the medical journal [SAGE open Medicine](https://journals.sagepub.com/doi/10.1177/20503121221099359). This was for the Northeast Big Data Innovation Hub on the project [_CritCOVIDView: A Critical Care Visualization Tool for COVID-19_](https://nebigdatahub.org/critcovidview/). The core goal of this project was to develop predictive models and statistical insights to help clinicians make data driven medical decisions during the COVID crisis with the insights and analysis from high dimensional patient data. In this post, I will summarize my work on one of the projects where I served as the data scientist. This project  targets analysis of the interaction between the prevalent and dangerous condition of Acute Kidney Injury (AKI), and the interaction with medications, patient demographics, and COVID infection. 
 
 Because of the sensitivity of the data I can neither share the data nor analysis code, but I can and will provide a description of the analysis process, results, and implications.
+
+<object data="/assets/supplementaryfiles/AKI_Survival_Recovery.pdf" width="1000" height="1000" type='application/pdf'></object>
 
 __Objective__:
 
