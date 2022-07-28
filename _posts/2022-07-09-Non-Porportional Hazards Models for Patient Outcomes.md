@@ -13,24 +13,25 @@ Because of the sensitivity of the data I can neither share the data nor analysis
 
 <object data="/assets/supplementaryfiles/AKI_Survival_Recovery.pdf" width="1000" height="1000" type='application/pdf'></object>
 
-__Objective__:
+
+## Objective:
 
 Acute Kidney Injury (AKI) is a dangerous condition and common condition in the ICU, impacting millions of patients every year and associated with a wide range in adverse patient outcomes including death. The goal of this analysis is to model the outcomes of these patients (both mortality and recovery) as well as to identify the treatment and patient conditions that may impact the patient outcome.
 
 
-__Data__:
+## Data:
 Ethical approval for this study was waived by Roger Williams Medical Center, IRB: 00000058 and The University of Rhode Island, IRB: 00000599 because of the retrospective, de-identified nature of the data. Informed consent was not sought for the present study because of the nature of the de-identified data.
 
 226 ICU patients were included in this study. Data included all available records of vitals, demographics, medications recieved, laboratory readings (from blood-work), and oxygenation.
 
-__Data Processing__:
+## Data Processing:
 AKI as a condition can be classified into 3 stages (stage 3 being the most severe), and was calculated via the criteria of the Kidney Disease Improving Global Outcomes standard. To accomplish this, rolling windows were applied over the temporally structured data, to detect the AKI criteria.
 
 ![Patient Classification](/assets/images/Post_Images/patients_included_KDIGO.PNG)
 
 Data are put into form for the survival models with the _Surv_ function from the _survival_ package in R. This function will properly process the data depending whether the outcome was observed. In survival modeling, censoring means that for some individuals, the outcome was not observed. We cannot exclude them from the study because this would bias results, so the model must consider that for these patients the outcome had not occured. For us, the outcome is a patient recovering from AKI or dying. 
 
-__Analysis & Results__:
+## Analysis & Results:
 
 The first basic question is how our AKI vs non-AKI patients compare. A descriptive table and pairwise comparisons (chi-square and t-test for categorical and continous variables respectively) were used to describe the differences between the cohort of AKI and non-AKI patients. 
 
@@ -61,7 +62,7 @@ Therefore, a non-proportional hazards model was run whereby features that signfi
 ![Figure 4](/assets/images/Post_Images/Figure4.jpg)
 
 
-__Conclusions__:
+## Conclusions:
 
 - The pairwise analysis of AKI and non-AKI patients showed that AKI patients varied significantly in many traits including vitals, laboratory results, and commorbidities
 
