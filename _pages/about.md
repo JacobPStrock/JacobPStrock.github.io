@@ -6,8 +6,6 @@ header:
     overlay_image: /assets/images/Ocean_Image_cropped.jpg
 ---
 
-# __About Me__:
-
 ## _To find meaning in data is what drives me. Each data set and project comes with its own unique challenges. Everyday I have the joy of solving puzzles with machine learning and statistics._
 
 ---
@@ -16,7 +14,7 @@ header:
     * University of Rhode Island, Dept. of Computer Science and Statistics
     * Thesis: _Investigating Physical, Chemical, and Biological Changes in Narragansett Bay using Bayesian Multivariate Dynamic Linear models_
 * [__IBM AI engineering Certification__](https://coursera.org/share/1e1324a784a999c740d91e983d8d6e36) 
-* __Azure Certified Data Engineer Associate__ (In progress)
+* __Azure Data Engineer Associate__ (In progress)
 
 ---
 
