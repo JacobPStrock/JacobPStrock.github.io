@@ -73,7 +73,7 @@ The measurement taken in this study, for which, all statistics are derived are c
 
 While normally the data are processed by hand, I automated the processing of thousands of cell distributions by fitting a mixture of a Gaussian and exponential mixuture model to the cell size distribution data, I quantified the mean and variance of the size distribution and number of cells in the target population. The traits of these population measures served as the key independent varaibles in the desired mathematical models of growth. Below you can see an example of a cell size distribution with overlaid Gaussian density curves:
 
-![figure 2](/assets/images/Post_Images/MicrobialGrowthModels/Figure2_v2.JPG)
+![figure 2](/assets/images/Post_Images/MicrobialGrowthModels/Figure2v2.jpg)
 __Figure 2__ : _A particle and cell size distribution is fit with a mixture of distributions to identify the true cell count and population characteristics. The raw data collected from the Coulter counter is the underlying histogram of cell size with frequency on the y-axis and cell size on the x-axis. To fit the mixture distribution, the frequency data is first converted to raw measurements of individual cells. The density distributions from the mixture model are overlaid for graphical reference to the model fit. Unlike most clustering cases where the true number of clusters cannot be known, microscopy was used to verify the number of true cell populations and possibly multiple cell size groups of the same population._
 
 Population growth rates were calculated by fitting an exponential growth curve to the population data:
