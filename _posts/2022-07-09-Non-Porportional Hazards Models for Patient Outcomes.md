@@ -7,7 +7,9 @@ header:
 
 ![nonproportional hazards](/assets/images/Post_Images/nonproportional_hazards.jpeg)
 
-Recently, I had some of my survival (aka time to event) modeling work published in the medical journal [SAGE open Medicine](https://journals.sagepub.com/doi/10.1177/20503121221099359). This was for the Northeast Big Data Innovation Hub on the project [_CritCOVIDView: A Critical Care Visualization Tool for COVID-19_](https://nebigdatahub.org/critcovidview/). The core goal of this project was to develop predictive models and statistical insights to help clinicians make data driven medical decisions during the COVID crisis with the insights and analysis from high dimensional patient data. In this post, I will summarize my work on one of the projects where I served as the data scientist. This project  targets analysis of the interaction between the prevalent and dangerous condition of Acute Kidney Injury (AKI), and the interaction with medications, patient demographics, and COVID infection. 
+During the pandemic, I worked as part of a the team on the Northeast Big Data Innovation Hub on the project [_CritCOVIDView: A Critical Care Visualization Tool for COVID-19_](https://nebigdatahub.org/critcovidview/), where I created data processing pipelines, conducted statistical analysis for insight and trained statistical models for predicting patient outcome and the clinical influences on these outcomes. The core goal of this project was to develop predictive models and statistical insights to help clinicians make data driven medical decisions during the COVID crisis with the insights and analysis from high dimensional patient data. Recently,  some of the survival (aka time to event) modeling work was published in the medical journal [SAGE open Medicine](https://journals.sagepub.com/doi/10.1177/20503121221099359).  In this post, I will summarize the modeling components of this paper that I worked on as part of the team. 
+
+This project  targets analysis of the interaction between the prevalent and dangerous condition of Acute Kidney Injury (AKI), and the interaction with medications, patient demographics, and COVID infection. 
 
 Because of the sensitivity of the data I can neither share the data nor analysis code, but I can and will provide a description of the analysis process, results, and implications.
 
@@ -16,11 +18,11 @@ Because of the sensitivity of the data I can neither share the data nor analysis
 
 ## Objective:
 
-Acute Kidney Injury (AKI) is a dangerous condition and common condition in the ICU, impacting millions of patients every year and associated with a wide range in adverse patient outcomes including death. The goal of this analysis is to model the outcomes of these patients (both mortality and recovery) as well as to identify the treatment and patient conditions that may impact the patient outcome.
+Acute Kidney Injury (AKI) is a dangerous condition and unfortunately common condition in the ICU, impacting millions of patients every year and associated with a wide range in adverse patient outcomes including death. The goal of this analysis is to model the outcomes of these patients (both mortality and recovery) as well as to identify the treatment and patient conditions that may impact the patient outcome.
 
 
 ## Data:
-Ethical approval for this study was waived by Roger Williams Medical Center, IRB: 00000058 and The University of Rhode Island, IRB: 00000599 because of the retrospective, de-identified nature of the data. Informed consent was not sought for the present study because of the nature of the de-identified data.
+This study recieved all proper ethical approval (see publication details), and used deidentified, retrospective data.
 
 226 ICU patients were included in this study. Data included all available records of vitals, demographics, medications recieved, laboratory readings (from blood-work), and oxygenation.
 
