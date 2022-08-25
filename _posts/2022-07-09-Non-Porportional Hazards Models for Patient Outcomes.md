@@ -7,7 +7,7 @@ header:
 
 ![nonproportional hazards](/assets/images/Post_Images/nonproportional_hazards.jpeg)
 
-During the pandemic, I worked as part of a the team on the Northeast Big Data Innovation Hub on the project [_CritCOVIDView: A Critical Care Visualization Tool for COVID-19_](https://nebigdatahub.org/critcovidview/), where I created data processing pipelines, conducted statistical analysis for insight and trained statistical models for predicting patient outcome and the clinical influences on these outcomes. The core goal of this project was to develop predictive models and statistical insights to help clinicians make data driven medical decisions during the COVID crisis with the insights and analysis from high dimensional patient data. Recently,  some of the survival (aka time to event) modeling work was published in the medical journal [SAGE open Medicine](https://journals.sagepub.com/doi/10.1177/20503121221099359).  In this post, I will summarize the modeling components of this paper that I worked on as part of the team. 
+During the COVID-19 pandemic, I had the privelage to work on the Northeast Big Data Innovation Hub project [_CritCOVIDView: A Critical Care Visualization Tool for COVID-19_](https://nebigdatahub.org/critcovidview/). As part of a team, led with the clinical and research expertise of Todd Brothers PhD, PharmD and Mohammad Al-Mamun PhD, I created data processing pipelines, conducted statistical analysis for insight and trained statistical models for predicting patient outcome and the clinical influences on these outcomes. The core goal of this project was to develop predictive models and statistical insights to help clinicians make data driven medical decisions during the COVID crisis with the insights and analysis from high dimensional patient data. Recently,  some of the survival (aka time to event) modeling work was published in the medical journal [SAGE open Medicine](https://journals.sagepub.com/doi/10.1177/20503121221099359).  In this post, I will summarize the modeling components of this paper that I worked on as part of the team. 
 
 This project  targets analysis of the interaction between the prevalent and dangerous condition of Acute Kidney Injury (AKI), and the interaction with medications, patient demographics, and COVID infection. 
 
@@ -24,14 +24,17 @@ Acute Kidney Injury (AKI) is a dangerous condition and unfortunately common cond
 ## Data:
 This study recieved all proper ethical approval (see publication details), and used deidentified, retrospective data.
 
-226 ICU patients were included in this study. Data included all available records of vitals, demographics, medications recieved, laboratory readings (from blood-work), and oxygenation.
+226 ICU patients were included in this study. Data included all available records of vitals, demographics, medications recieved, laboratory readings (from blood-work), and oxygenation. All patient data were available in completion during the entirety of the patient stay.
 
 ## Data Processing:
-AKI as a condition can be classified into 3 stages (stage 3 being the most severe), and was calculated via the criteria of the Kidney Disease Improving Global Outcomes standard. To accomplish this, rolling windows were applied over the temporally structured data, to detect the AKI criteria.
+AKI as a condition can be classified into 3 stages (stage 3 being the most severe), and was calculated via the criteria of the Kidney Disease Improving Global Outcomes standard. To accomplish this, I created a data pipeline using rolling windows, applied over the temporally structured data, to detect the AKI criteria. By applying the AKI criteria in rolling windows of the patient data, important temporal traits were retained such as the time to onset of AKI, worsening/improving of condition over time, and time between diagnose and outcome (recovery/mortality).
 
 ![Patient Classification](/assets/images/Post_Images/patients_included_KDIGO.PNG)
+__Figure 1__: Of the total patients included in the study, XXX , XXX, XXX, XXX.
 
-Data are put into form for the survival models with the _Surv_ function from the _survival_ package in R. This function will properly process the data depending whether the outcome was observed. In survival modeling, censoring means that for some individuals, the outcome was not observed. We cannot exclude them from the study because this would bias results, so the model must consider that for these patients the outcome had not occured. For us, the outcome is a patient recovering from AKI or dying. 
+First, the descriptive statistics were calculated for each study group (XXX). The mean and interquantile range were calculated for each continuous variable, and for categorical variables, the count and percentage of patients meeting the conditon were calculated. To statistically test differences between the study groups, pair-wise t-tests were used for continous varaibles, and a chi-square test was used for categorical features. 
+
+To prepare the data for survival modeling, the data had to be processed into a time-to-event format. In this format, each row was occupied by the data for a given patient and condition status. In example, it may designate the AKI stage 1 status of patient X. If patient X was also non-AKI, a seperate row would designate their data for the non-AKI period of their stay. Each row contained an event (recovery, worsening AKI condition, mortality), the time from diagnosis or ICU entry to the event, the patient demographics, and average laboratory, oxygen, and vitals data. In addition, a dummy encoding was used for the medication classes received during their stay. Altogether, the transformed data gave information on the time to event, the event, and the patient conditions leading up to the event.
 
 ## Analysis & Results:
 
