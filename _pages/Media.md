@@ -12,7 +12,13 @@ header:
 
 __Media__:
 
-While much of my work and research is confidential by nature, some projects which were funded through public grants were not. Some of these resulted in media pieces for public consumption which you can find below.
+While much of my work and research is confidential by nature, some projects which were funded through public grants were not, and some applications in private industry have been publicly presented. Some of these resulted in media pieces for public consumption which you can find below.
+
+- I will be presenting at SPIE (Society of Photographic Instrumentation Engineers) Advanced Lithography and Patterning about some of my recent work with Gigaphoton to bring machine learning to lithography and semiconductor manufacturing. See the abstract and details [here](https://spie.org/advanced-lithography/presentation/The-development-of-a-machine-learning-based-excimer-laser-performance/12496-101)
+
+- Currently, I work on machine learning solutions for lithography in semiconductor manufacturing. You can hear me present about the Fabscape platform and the unique data solutions it provides for semiconductor manufacturing [here](https://www.semiconductor-digest.com/fabscape-webinar-october-2022/)
+
+![Fabscape Webinar](/assets/images/FabscapeWebinar.png)
 
 - You can read about the project I was a part of developing predictive models for COVID patient outcome [here](https://nebigdatahub.org/critcovidview/). This was a large team effort, where I served in a consulting role for data science and machine learning.
 

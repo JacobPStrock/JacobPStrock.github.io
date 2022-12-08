@@ -12,7 +12,7 @@ header:
 
 __Publications__:
 
-1. [Mohommad, Al-Mamun, __Strock, Jacob P.__, Sharker, Yushuf, Schmidt, Rebecca, Shawwa, Khaled, Slain, Douglas, Sakhuja, Ankit, and Todd Brothers. "Evaluating the Association and Predictability of Complex Medication Regimen Scores with Clinical Outcomes Among the Critically Ill". Critical Care Medicine (2022), In review.](https://www.medrxiv.org/content/10.1101/2022.02.03.22270376v1)
+1. [Mohommad, Al-Mamun, __Strock, Jacob P.__, Sharker, Yushuf, Schmidt, Rebecca, Shawwa, Khaled, Slain, Douglas, Sakhuja, Ankit, and Todd Brothers. "Evaluating the Association and Predictability of Complex Medication Regimen Scores with Clinical Outcomes Among the Critically Ill". Critical Care Medicine (2022)](https://www.medrxiv.org/content/10.1101/2022.02.03.22270376v1)
 
 2. [Brothers, Todd, __Strock, Jacob P.__, LeMasters, Traci, Pawasauskas, Jayne, Reed, Ronald and Al-Mamun, Mohammad. (2022). Survival and recovery modeling of acute kidney injury in critically ill adults. SAGE Open Medicine. 10. 205031212210993. 10.1177/20503121221099359.](https://journals.sagepub.com/doi/10.1177/20503121221099359)
 

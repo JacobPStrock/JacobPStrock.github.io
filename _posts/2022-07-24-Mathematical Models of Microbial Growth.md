@@ -2,7 +2,7 @@
 usemathjax:
     true
 header: 
-    teaser: /assets/images/Model_comparison_icon.png
+    teaser: /assets/images/Thermal_Reaction_Norm.PNG
 ---
 ![darwin model globe](/assets/images/Post_Images/darwin_model.jpg)
 

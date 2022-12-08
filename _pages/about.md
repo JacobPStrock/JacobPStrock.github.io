@@ -6,7 +6,7 @@ header:
     overlay_image: /assets/images/Ocean_Image_cropped.jpg
 ---
 
-## _To find meaning in data is what drives me. Each data set and project comes with its own unique challenges. Everyday I have the joy of solving puzzles with machine learning and statistics._
+## _To find meaning in data is what drives me. Everyday I have the joy of solving puzzles with machine learning and statistics._
 
 ---
 ### <ins>Training</ins> : 

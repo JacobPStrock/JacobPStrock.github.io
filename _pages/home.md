@@ -18,8 +18,8 @@ feature_row:
   - image_path: /assets/images/survival_model_resized.jpg
     alt: "Surival Analysis of COVID-19 Patients with AKI"
     title: "Survival Analysis of COVID-19 Patients with AKI"
-    excerpt: "Using non-proportional hazards models with clinical data to improve patient outcome"
-    url: "/2022/07/09/Non-Porportional-Hazards-Models-for-Patient-Outcomes.html"
+    excerpt: "Using nonproportional hazards models with clinical data to improve patient outcome"
+    url: "/2022/07/09/Nonporportional-Hazards-Models-for-Patient-Outcomes.html"
     btn_class: "btn--primary"
     btn_label: "Learn more"
 
