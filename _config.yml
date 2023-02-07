@@ -63,6 +63,9 @@ author:
     #- label: "Website"
     #  icon: "fas fa-fw fa-link"
     #  url: "https://"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin-in"
+      url: "https://www.linkedin.com/in/jacob-strock-data-science/"
     - label: "Research Gate"
       icon: "fab fa-fw fa-researchgate"
       url: "https://www.researchgate.net/profile/Jacob-Strock"
@@ -84,7 +87,7 @@ footer:
   links:
     - label: "LinkedIn"
       icon: "fab fa-linkedin-in"
-      url: "https://www.linkedin.com/in/jacob-strock-19793b24b/"
+      url: "https://www.linkedin.com/in/jacob-strock-data-science/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/"
