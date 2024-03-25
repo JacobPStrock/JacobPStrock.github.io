@@ -6,8 +6,6 @@ header:
     overlay_image: /assets/images/Ocean_Image_cropped.jpg
 ---
 
-## _To find meaning in data is what drives me. Everyday I have the joy of solving puzzles with machine learning and statistics._
-
 ---
 ### <ins>Training</ins> : 
 * __Master of Science in Statistics__
@@ -20,21 +18,25 @@ header:
 
 ### <ins>Experience</ins> : 
 
-![Logos](/assets/images/Experience_banner.jpg)
+![Logos](/assets/images/Experience_banner_2.jpg)
 
 In addition to this training, I have had the privilege to work in the following topics in data science roles. I identify closely with the words of the famous statistician John Tukey: _"The best thing about being a statistician is that you get to play in everyone’s backyard.”_
 
+* Urgent care & primary care business and operations
 * Excimer laser lithography operation
 * Long-term environmental monitoring and policy evaluation
-* Oceanographic exploration
-* Behavioral analysis of fish
 * Clinical research of COVID-19 patient outcome and pharmaceutical treatment
 * Risk analysis of premature birth
 * Detection of fraudulent pharmaceutical drugs
+* Oceanographic exploration
+
 
 ---
 
-![Life as a scientist](/assets/images/Helicopter_photo.jpg)
+<p align="center">
+    <img src="/assets/images/Helicopter_photo.jpg" width="75%">
+</p>
+
 *My research career has taken me around the globe to solve unique problems. Here I am on a research expedition through the Northwest Passage*
 
 ---
