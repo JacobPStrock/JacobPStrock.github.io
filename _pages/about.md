@@ -3,7 +3,7 @@ permalink: /about/
 title: "About"
 layout: "splash"
 header:
-    overlay_image: /assets/images/Ocean_Image_cropped.jpg
+    overlay_image: /assets/images/banner_gimp.png
 ---
 
 ---
@@ -12,7 +12,7 @@ header:
     * University of Rhode Island, Dept. of Computer Science and Statistics
     * Thesis: _Investigating Physical, Chemical, and Biological Changes in Narragansett Bay using Bayesian Multivariate Dynamic Linear models_
 * [__IBM AI engineering Certification__](https://coursera.org/share/1e1324a784a999c740d91e983d8d6e36) 
-* [__Azure Data Engineer Associate__](https://www.credly.com/badges/05489b76-51ee-49be-9206-6cc754b1ba5e/linked_in_profile) 
+* [__Azure Data Engineer Associate__](https://learn.microsoft.com/en-us/users/jacobstrock-6718/credentials/7be3a56b7da58796?ref=https%3A%2F%2Fwww.linkedin.com%2F) 
 
 ---
 

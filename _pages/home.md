@@ -8,7 +8,7 @@ classes:
 header:
   overlay_color: "#5e616c"
   overlay_image: 
-    /assets/images/paint_image_cropped (4).jpg
+    /assets/images/banner_gimp.png
   actions:
     - label: "<i class='fas fa-download'></i> About"
       url: "/about/"
@@ -18,18 +18,18 @@ feature_row:
   - image_path: /assets/images/survival_model_resized.jpg
     alt: "Surival Analysis of COVID-19 Patients with AKI"
     title: "Survival Analysis of COVID-19 Patients with AKI"
-    excerpt: "Using nonproportional hazards models with clinical data to improve patient outcome"
+    excerpt: "Using nonproportional hazards models with clinical data to predict patient outcome with acute kidney injury (AKI), and inform patient care"
     url: "/2022/07/09/Nonporportional-Hazards-Models-for-Patient-Outcomes.html"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   
-  #- image_path: /assets/images/Post_Images/MedicationRegimenComplexity/#jcm_sensitivity_specificity_mortality.png
-    #alt: "Medication Regimen Complexity Score to Predict Patient Outcome"
-    #title: "Medication Regimen Complexity Score to Predict Patient Outcome"
-    #excerpt: "Using multi-stage Bayesian state-space models and wavelet analysis to #analyze climate patterns on the longest time series of its kind"
- #   url: "/2023/06/18/Medication-Regimen-Complexity-to-Predict-Patient-Outcome.html"
- #   btn_class: "btn--primary"
- #   btn_label: "Learn more"  
+  - image_path: /assets/images/Post_Images/MedicationRegimenComplexity/jcm_sensitivity_specificity_mortality.png
+    alt: "Predicting Patient Outcome with Medication Regimen Complexity"
+    title: "Predicting Patient Outcome with Medication Regimen Complexity"
+    excerpt: "Testing predictive power of multiple medication regimen complexity scoring techniques in categorical prediction models of patient outcome"
+    url: "/2023/06/18/Medication-Regimen-Complexity-to-Predict-Patient-Outcome.html"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"  
 
   - image_path: /assets/images/Cross_Covariance.png
     alt: "New Approaches for the Oldest Time Series of Its Kind"
