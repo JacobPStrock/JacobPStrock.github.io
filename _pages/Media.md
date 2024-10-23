@@ -23,7 +23,7 @@ While much of my work and research is confidential by nature, some projects whic
 
 - I presented at SPIE (Society of Photographic Instrumentation Engineers) Advanced Lithography and Patterning about some of my recent work with Gigaphoton to bring machine learning to lithography and semiconductor manufacturing. See the poster and abstract on the [SPIE digital library](https://spie.org/advanced-lithography/presentation/The-development-of-a-machine-learning-based-excimer-laser-performance/12496-101).
 
-- Currently, I work on machine learning solutions for lithography in semiconductor manufacturing. You can hear me present about the Fabscape platform and the unique data solutions it provides for semiconductor manufacturing in [Semiconductor Digest](https://www.semiconductor-digest.com/fabscape-webinar-october-2022/)
+- Previously, I worked on deep learning solutions for lithography in semiconductor manufacturing. You can hear me present about the Fabscape platform and the unique data solutions it provides for semiconductor manufacturing in [Semiconductor Digest](https://www.semiconductor-digest.com/fabscape-webinar-october-2022/)
 
 <p align="center">
     <img src="/assets/images/FabscapeWebinar.png" width="50%">
@@ -33,7 +33,7 @@ While much of my work and research is confidential by nature, some projects whic
 
 - On a research expedition to the Northwest Passage, I served as the biology team lead, using imaging equipment and image analysis and other machine learning tools to study the distribution of microbial communities, and the environmental factors driving their distribution and function.
 
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/OUbTyYI1UEs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/KOY2mAyRCCY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
     - Read more about the complete project [here](https://northwestpassageproject.org/expedition-team/)
 
