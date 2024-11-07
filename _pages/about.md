@@ -3,7 +3,7 @@ permalink: /about/
 title: "About"
 layout: "splash"
 header:
-    overlay_image: /assets/images/banner_gimp.png
+    overlay_image: /assets/images/banner_w_headshot2.png
 ---
 
 ---
