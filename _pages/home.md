@@ -8,7 +8,7 @@ classes:
 header:
   overlay_color: "#5e616c"
   overlay_image: 
-    /assets/images/banner_gimp2.png
+    /assets/images/banner_w_headshot2.png
   actions:
     - label: "<i class='fas fa-download'></i> About"
       url: "/about/"
