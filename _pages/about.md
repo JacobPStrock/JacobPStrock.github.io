@@ -7,18 +7,19 @@ header:
 ---
 
 ---
+
+![Logos](/assets/images/Experience_banner_2.jpg)
+
 ### <ins>Training</ins> : 
 * __Master of Science in Statistics__
     * University of Rhode Island, Dept. of Computer Science and Statistics
     * Thesis: _Investigating Physical, Chemical, and Biological Changes in Narragansett Bay using Bayesian Multivariate Dynamic Linear models_
-* [__IBM AI engineering Certification__](https://coursera.org/share/1e1324a784a999c740d91e983d8d6e36) 
 * [__Azure Data Engineer Associate__](https://learn.microsoft.com/en-us/users/jacobstrock-6718/credentials/7be3a56b7da58796?ref=https%3A%2F%2Fwww.linkedin.com%2F) 
-
+* [__Azure Data Scientist Associate__](https://learn.microsoft.com/en-us/users/jacobstrock-6718/credentials/7b6959a6becd89a?ref=https%3A%2F%2Fwww.linkedin.com%2F)
+* [__IBM AI engineering Certification__](https://coursera.org/share/1e1324a784a999c740d91e983d8d6e36) 
 ---
 
 ### <ins>Experience</ins> : 
-
-![Logos](/assets/images/Experience_banner_2.jpg)
 
 In addition to this training, I have had the privilege to work in the following topics in data science roles. I identify closely with the words of the famous statistician John Tukey: _"The best thing about being a statistician is that you get to play in everyone’s backyard.”_
 
