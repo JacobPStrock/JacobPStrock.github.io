@@ -15,6 +15,14 @@ header:
 excerpt: "Turning big data into scientific and business insights"
   
 feature_row:
+  - image_path: /assets/images/Fabscape_MarchPromo_square2.png
+    alt: "Containerized ML for the Semiconductor Fab"
+    title: "Containerized Machine Learning for the Semiconductor Fab"
+    excerpt: "Building containerized ML and data pipelines for the Semiconductor Fab with Fabscape, Docker, GRPC and your favorite machine learning libraries."
+    url: "/2023/01/Building A Fab Data Platform.md"
+    btn_class: "btn--primary"
+    btn_label: "Learn more" 
+
   - image_path: /assets/images/survival_model_resized.jpg
     alt: "Surival Analysis of COVID-19 Patients with AKI"
     title: "Survival Analysis of COVID-19 Patients with AKI"
