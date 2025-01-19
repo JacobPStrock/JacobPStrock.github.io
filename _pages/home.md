@@ -19,7 +19,7 @@ feature_row:
     alt: "Containerized ML for the Semiconductor Fab"
     title: "Containerized Machine Learning for the Semiconductor Fab"
     excerpt: "Building containerized ML and data pipelines for the Semiconductor Fab with Fabscape, Docker, GRPC and your favorite machine learning libraries."
-    url: "/2023/01/Building A Fab Data Platform.md"
+    url: "/2024/01/01/Building-A-Fab-Data-Platform.html"
     btn_class: "btn--primary"
     btn_label: "Learn more" 
 

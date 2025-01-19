@@ -17,6 +17,7 @@ header:
 * [__Azure Data Engineer Associate__](https://learn.microsoft.com/en-us/users/jacobstrock-6718/credentials/7be3a56b7da58796?ref=https%3A%2F%2Fwww.linkedin.com%2F) 
 * [__Azure Data Scientist Associate__](https://learn.microsoft.com/en-us/users/jacobstrock-6718/credentials/7b6959a6becd89a?ref=https%3A%2F%2Fwww.linkedin.com%2F)
 * [__IBM AI engineering Certification__](https://coursera.org/share/1e1324a784a999c740d91e983d8d6e36) 
+
 ---
 
 ### <ins>Experience</ins> : 
