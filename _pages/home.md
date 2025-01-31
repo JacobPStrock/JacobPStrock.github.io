@@ -20,7 +20,7 @@ feature_row:
     alt: "Infection News Analyst (Retrieval-Augmented Generation)"
     title: "Infection News Analyst (LLM Retrieval-Augmented Generation)"
     excerpt: "Leverages NewsAPI, CDC data, and LLM RAG to provide a monitoring dashboard for flu and COVID infections using Langchain and OpenAI modules and APIs."
-    url: "/2024/01/01/LLM-RAG-Analyst.html"
+    url: "/2025/01/30/LLM-RAG-Analyst.html"
     btn_class: "btn--primary"
     btn_label: "Learn more" 
 
