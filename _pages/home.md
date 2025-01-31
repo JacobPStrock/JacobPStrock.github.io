@@ -15,6 +15,15 @@ header:
 excerpt: "Turning big data into scientific and business insights"
   
 feature_row:
+
+  - image_path: /assets/images/Post_Images/LLMRAG/LLM_diagram_1-1ratio.png
+    alt: "Infection News Analyst (Retrieval-Augmented Generation)"
+    title: "Infection News Analyst (LLM Retrieval-Augmented Generation)"
+    excerpt: "Leverages NewsAPI, CDC data, and LLM RAG to provide a monitoring dashboard for flu and COVID infections using Langchain and OpenAI modules and APIs."
+    url: "/2024/01/01/LLM-RAG-Analyst-.html"
+    btn_class: "btn--primary"
+    btn_label: "Learn more" 
+
   - image_path: /assets/images/Fabscape_MarchPromo_square2.png
     alt: "Containerized ML for the Semiconductor Fab"
     title: "Containerized Machine Learning for the Semiconductor Fab"
