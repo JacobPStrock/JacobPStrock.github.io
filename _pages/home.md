@@ -12,7 +12,7 @@ header:
   actions:
     - label: "<i class='fas fa-download'></i> About"
       url: "/about/"
-excerpt: "Turning big data into scientific and business insights"
+excerpt: "Experienced End-to-End AI & Data Engineering"
   
 feature_row:
 
@@ -32,14 +32,6 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Learn more" 
 
-  - image_path: /assets/images/survival_model_resized.jpg
-    alt: "Surival Analysis of COVID-19 Patients with AKI"
-    title: "Survival Analysis of COVID-19 Patients with AKI"
-    excerpt: "Using nonproportional hazards models with clinical data to predict patient outcome with acute kidney injury (AKI), and inform patient care"
-    url: "/2022/07/09/Nonporportional-Hazards-Models-for-Patient-Outcomes.html"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"
-  
   - image_path: /assets/images/Post_Images/MedicationRegimenComplexity/jcm_sensitivity_specificity_mortality.png
     alt: "Predicting Patient Outcome with Medication Regimen Complexity"
     title: "Predicting Patient Outcome with Medication Regimen Complexity"
@@ -47,6 +39,14 @@ feature_row:
     url: "/2023/06/18/Medication-Regimen-Complexity-to-Predict-Patient-Outcome.html"
     btn_class: "btn--primary"
     btn_label: "Learn more"  
+
+  - image_path: /assets/images/survival_model_resized.jpg
+    alt: "Surival Analysis of COVID-19 Patients with AKI"
+    title: "Survival Analysis of COVID-19 Patients with AKI"
+    excerpt: "Using nonproportional hazards models with clinical data to predict patient outcome with acute kidney injury (AKI), and inform patient care"
+    url: "/2022/07/09/Nonporportional-Hazards-Models-for-Patient-Outcomes.html"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
 
   - image_path: /assets/images/Cross_Covariance.png
     alt: "New Approaches for the Oldest Time Series of Its Kind"
