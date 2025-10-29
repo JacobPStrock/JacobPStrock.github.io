@@ -3,7 +3,7 @@ permalink: /about/
 title: "About"
 layout: "splash"
 header:
-    overlay_image: /assets/images/banner_w_headshot2.png
+    overlay_image: /assets/images/home_banner.png
 ---
 
 ---
@@ -14,9 +14,10 @@ header:
 * __Master of Science in Statistics__
     * University of Rhode Island, Dept. of Computer Science and Statistics
     * Thesis: _Investigating Physical, Chemical, and Biological Changes in Narragansett Bay using Bayesian Multivariate Dynamic Linear models_
+* [__Fabric Data Engineer Associate__](https://learn.microsoft.com/en-us/users/jacobstrock-6718/credentials/e24640a8236cba8e?ref=https%3A%2F%2Fwww.linkedin.com%2F)
 * [__Azure Data Engineer Associate__](https://learn.microsoft.com/en-us/users/jacobstrock-6718/credentials/7be3a56b7da58796?ref=https%3A%2F%2Fwww.linkedin.com%2F) 
 * [__Azure Data Scientist Associate__](https://learn.microsoft.com/en-us/users/jacobstrock-6718/credentials/7b6959a6becd89a?ref=https%3A%2F%2Fwww.linkedin.com%2F)
-* [__IBM AI engineering Certification__](https://coursera.org/share/1e1324a784a999c740d91e983d8d6e36) 
+* [__IBM AI Engineering Certification__](https://coursera.org/share/1e1324a784a999c740d91e983d8d6e36) 
 
 ---
 
@@ -32,14 +33,11 @@ In addition to this training, I have had the privilege to work in the following 
 * Detection of fraudulent pharmaceutical drugs
 * Oceanographic exploration
 
-
 ---
 
 <p align="center">
     <img src="/assets/images/Helicopter_photo.jpg" width="75%">
 </p>
-
-*My research career has taken me around the globe to solve unique problems. Here I am on a research expedition through the Northwest Passage*
 
 ---
 

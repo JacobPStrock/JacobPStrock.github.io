@@ -1,9 +1,11 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Projects"
-    url: /posts/
   - title: "Publications"
     url: /publications/
+  - title: "Patents"
+    url: /patents/
+  - title: "Projects"
+    url: /posts/
   - title: "Media"
     url: /media/
