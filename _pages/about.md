@@ -13,7 +13,7 @@ header:
 ### <ins>Training</ins> : 
 * __Master of Science in Statistics__
     * University of Rhode Island, Dept. of Computer Science and Statistics
-    * Thesis: _Investigating Physical, Chemical, and Biological Changes in Narragansett Bay using Bayesian Multivariate Dynamic Linear models_
+    * Thesis: [_Two-stage multivariate dynamic linear models architectures to extract and forecast climate signals_](https://par.nsf.gov/servlets/purl/10473887)
 * [__Fabric Data Engineer Associate__](https://learn.microsoft.com/en-us/users/jacobstrock-6718/credentials/e24640a8236cba8e?ref=https%3A%2F%2Fwww.linkedin.com%2F)
 * [__Azure Data Engineer Associate__](https://learn.microsoft.com/en-us/users/jacobstrock-6718/credentials/7be3a56b7da58796?ref=https%3A%2F%2Fwww.linkedin.com%2F) 
 * [__Azure Data Scientist Associate__](https://learn.microsoft.com/en-us/users/jacobstrock-6718/credentials/7b6959a6becd89a?ref=https%3A%2F%2Fwww.linkedin.com%2F)
